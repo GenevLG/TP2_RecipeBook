@@ -1,6 +1,6 @@
 #include <string>
 
-class Story 
+class Book 
 {
     private:
         std::string currentFile; //Le fichier actuellement chargé
@@ -13,8 +13,8 @@ class Story
         void GetHistoryOfChoices(); //Historique des choix (pour le GoBack)
 
     public:
-        Story(const std::string& file); 
-        ~Story(); 
+        Book(const std::string& file); 
+        ~Book(); 
     
         void Start(); //Démarrer le début de l'histoire
         void GoBack(); //Revenir en arrière
