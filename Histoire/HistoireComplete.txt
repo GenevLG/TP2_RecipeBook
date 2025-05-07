@@ -1,0 +1,140 @@
+Début de l’histoire : La princesse et le dragon
+
+Il étais une fois, la Princesse Daisy, héritière du royaume de Sarasaland. 
+Lors de son 18ᵉ anniversaire, une légende ressurgit : un dragon millénaire, le Gardien de Ruined Kingdom, s'éveille. 
+Ce dragon,  surnommé Lord of Lightning, détient un mystérieux secret, mais menace également le royaume. 
+Alors que tout le monde s'attend à ce que le roi envoie ses chevaliers, Daisy décide de prendre son destin en main 
+et de partir en quête. 
+
+************************************************
+
+Chapitre 1 : Le choix de l’équipement
+
+Daisy entre dans la salle d'armes secrète du château. 
+Pour affronter l'inconnu, elle doit choisir un objet essentiel :
+
+[1] Une épée arcs-en-ciel, capable de trancher la pierre.
+
+[2] Le diadème de fleur, conférant la capacité de parler avec les créatures magiques.
+
+[3] Un cristal d'invisibilité, pour vous déplacer sans être vue.
+
+Que choisit elle ?
+
+************************************************
+
+Choix du Chapitre 1 :
+
+L’épée arcs-en-ciel: 
+[1 ] Daisy sent la puissance de l’arc-en-ciel dans ses mains. Elle a confiance que cela la protégera dans un combat.
+
+Le diadème de fleur : 
+[2] Daisy sent une aura étrange au dessus d'elle. Peut-être que dialoguer est une meilleure solution que la force.
+
+Un cristal d'invisibilité : 
+[3 ] Daisy sent la pierre précieuse disparaître dans sa main. La discrétion est parfois la meilleure défense.
+
+************************************************
+
+Chapitre 2 : À l’entrée de Ruined Kingdom
+
+Après plusieurs jours de voyage, Daisy atteint la frontière de Ruined Kingdom. Pour y entrer, Daisy doit emprunter un sentier escarpé, mais un Boom Boom garde l’entrée.
+
+Si elle a l’épée arcs-en-ciel : 
+[1] Daisy engage un combat contre le Boom Boom. Après une bataille épuisante, elle brise sa carapace et continue son chemin.
+
+Si elle a le diadème de fleur : 
+[2] Daisy utilise l’amulet pour communiquer avec le Boom Boom. À sa grande surprise, il se révèle être un ancien protecteur ensorcelé. Il la laisse passer.
+
+Si elle a le cristal d'invisibilité : 
+[3] Daisy active le cristal et se faufile discrètement derrière le Boom Boom, entrant dans la montagne sans qu’il ne la voie.
+
+************************************************
+
+Chapitre 3 : Face au dragon
+
+Dans un paysage composé de ruines, probablement les traces d'une ou plusieurs batailles passées, Daisy arrive enfin au pied d'une falaise. Une immense crevasse s'ouvre devant elle, marquant l'entrée de la tanière du dragon. L'air est chargé de mystère, et chaque pas fait résonner un écho profond dans l'obscurité de la caverne.
+
+Avançant d'un pas prudent, Daisy explore l'immensité de la caverne. Guidé par un courant d'air qui parcours les souterrains, elle découvre le dragon endormi. 
+De sa couleur mauve foncé, il est presque imperceptible dans la noirceur de sa tanière. Sa forme colossale occupe presque toute la cavité, et son souffle emplit l’air d’une chaleur suffocante. 
+Devant elle se trouvent de nombreux indices et objets mystérieux qui pourraient l'aider à comprendre la situation.
+
+Elle doit maintenant agir...
+
+[1] Tenter de réveiller le dragon et de lui parler.
+
+[2] Chercher discrètement dans la grotte des indices ou des objets.
+
+[3] Attaquer directement le dragon.
+
+************************************************
+
+Daisy s'avance doucement vers le dragon et décide de tenter une approche pacifique. Peut-être peut-elle découvrir ses véritables intentions ?
+
+Le dragon écoute patiemment Daisy. Il révèle qu'il garde un fragment d’une ancienne magie que certains dans le royaume convoitent pour de sombres raisons. Le dragon propose un marché : "Si tu veux protéger ton royaume, aide-moi à récupérer l'autre moitié de cette artefact, gardé sous les profondeurs du monde."
+---------------------------------------------------------
+Elle doit choisir :
+
+- Accepter. >>>>>>>Ensemble, ils quittent tanière.
+- Partir.
+
+************************************************
+
+Chercher discrètement dans la grotte des indices ou des objets : 
+Daisy choisit d'explorer les environs tout en restant hors de vue du dragon. La caverne est vaste et pourrait cacher des secrets essentiels.
+
+En fouillant la tanière, Daisy trouve un vieux parchemin qui explique que le dragon est en réalité prisonnier d’une malédiction qui le force à agir agressivement. Le parchemin contient un rituel pour briser le sort. 
+---------------------------------------------------------
+Toutefois, elle doit choisir :
+
+- Exécuter seule le rituel (elle risque d’échouer sans l’aide du dragon), en échange de devenir alliés à tout jamais.
+- Convaincre le dragon de coopérer lors du ritual pour rompre la malédiction ensemble.
+- Partir.
+
+************************************************
+
+Malgré les risques, Daisy prend son courage à deux mains et décide de frapper en premier pour protéger son royaume.
+
+Le dragon, blessé mais impressionné par le courage de Daisy, accepte une trêve. Il révèle qu’un Magikoopa manipulateur, nommé  Kamek, l’a obligé à terroriser le royaume. 
+---------------------------------------------------------
+Daisy doit maintenant choisir :
+
+- Utilise sa magie pour aider le dragon à se libérer de l’influence de Kamek.
+- Propose un marché au dragon : devenir un allié du royaume contre sa protection.
+- Partir.
+
+************************************************
+
+Chercher / Rituel / Trêve
+
+Quête : Daisy et le dragon partent en quête dans les grottes de Toad Town, où ils doivent affronter des épreuves magiques afin de trouver l'autre moitié de l'Astre Noir.
+---------------------------------------------------------
+Alliés : (Rituel) La princesse réussit le rituel avec succès.
+
+(Trêve) Habituer d'être sans cèsse menacer ou manipuler, pour la première fois de sa vie, le dragon se senti respecter. Il acceptas avec plaisir se marché.
+
+Daisy possède désormais un allié de taille. Avec le dragon, ils unissent leurs forces pour défendre le royaume et se préparer à affronter toute menace future.
+---------------------------------------------------------
+Entraide : (Rituel) La princesse et le dragon, unis contre la malédiction, réussirent à la briser. 
+Aucune force n'aurais pu y résister.  
+
+(Trêve) Par son dévouement, la magie de la princesse fini par dissiper la mauvaise influence dans laquelle le magicien emprisonnait le dragon.
+
+Troubler par la gentillesse de la princesse, le dragon lui promis fidélité entant qu'allié, mais surtout entant qu'ami. 
+---------------------------------------------------------
+Partir : Rapidement, Daisy décide de quitter la tanière du dragon. Elle retourne au château avec un avertissement. Elle ne fait pas confiance au dragon et crain que son mystérieux secret sois trop dangereux pour être laisser entre ses griffes. 
+
+Elle doit convaincre son père de préparer le royaume contre une guerre imminente.
+
+************************************************
+
+Fin alternative
+
+Fin Alliés : La légende des protecteurs (si Daisy s’allie avec Ruined Dragon)
+Daisy et Ruined Dragon deviennent des protecteurs légendaires du royaume. Grâce à leur alliance, le sorcier est vaincu avant de pouvoir utiliser le pouvoir de l'Astre Noir.  Le royaume prospère sous la sagesse de Daisy, qui devient une reine respectée.
+---------------------------------------------------------
+Fin Quête : Le sacrifice héroïque (si Daisy part seule pour le Sanctuaire)
+Daisy et le dragon réussissent à atteindre les grottes de Toad Town, mais les épreuves sont intenses et magiquement dangereuses. Bien qu’ils parviennent à neutraliser le pouvoir ancien, Daisy y laisse une partie d’elle-même. Le royaume est sauvé, et Daisy devient une figure mythique dont les exploits sont contés à travers les âges.
+---------------------------------------------------------
+Fin War : La guerre du royaume (si Daisy retourne avertir son père)
+Malgré ses efforts, Daisy ne parvient pas à convaincre le roi à temps. Le sorcier et le dragon attaquent le royaume avec une armée de créatures magiques. Daisy mène vaillamment les chevaliers à la victoire, mais au prix de grandes pertes. Le royaume survit, mais Daisy choisit de s’exiler, hantée par les pertes causées par ce retard.

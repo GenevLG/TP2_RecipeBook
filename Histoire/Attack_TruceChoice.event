@@ -1,0 +1,17 @@
+<Choices>
+	<Text>Daisy doit maintenant choisir :</Text>
+	<Text></Text>
+	<Choice>
+		<Text>[1] Utilise sa magie pour aider le dragon à se libérer de l’influence de Kamek.</Text>
+		<Next>TruceChoice_Help</Next>
+	</Choice>
+	<Choice>
+		<Text>[2] Propose un marché au dragon : devenir un allié du royaume contre sa protection.</Text>
+		<Next>TruceChoice_Allied</Next>
+	</Choice>
+	<Choice>
+		<Text>[3] Partir.</Text>
+		<Next>Choice_Leave</Next>
+	</Choice>	
+	<Text>Que choisit elle ?</Text>
+</Choices>

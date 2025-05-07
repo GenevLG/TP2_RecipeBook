@@ -1,0 +1,5 @@
+<Event>
+	<Text>Après plusieurs minutes de combat contre la malédiction, la princesse réussit enfin le rituel. Le dragon</Text>
+	<Text>repris aussitôt sa forme pacifique, celle d'un Yoshi.</Text>
+	<Next>End_Allied</Next>
+</Event>

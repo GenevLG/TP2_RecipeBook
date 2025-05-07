@@ -1,0 +1,4 @@
+<Event>
+	<Text>Vous etes une belle princesse dans un chateau</Text>
+	<Next>a_difficult_choice</Next>
+</Event>

@@ -1,0 +1,19 @@
+<Choices>
+	<Text>Toutefois, elle doit choisir :</Text>
+	<Text></Text>
+	<Choice>
+		<Text>[1] Exécuter seule le rituel (elle risque d’échouer sans l’aide du dragon), en échange de devenir</Text>
+		<Text>alliés à tout jamais.</Text>
+		<Next>RitualChoice_Allied</Next>
+	</Choice>
+	<Choice>
+		<Text>[2] Convaincre le dragon de coopérer lors du ritual pour rompre la malédiction ensemble.</Text>
+		<Next>RitualChoice_Help</Next>
+	</Choice>
+	<Choice>
+		<Text>[3] Partir.</Text>
+		<Next>Choice_Leave</Next>
+	</Choice>	
+	<Text>Que choisit elle ?</Text>
+</Choices>
+

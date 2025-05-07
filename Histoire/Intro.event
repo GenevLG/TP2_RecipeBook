@@ -1,0 +1,8 @@
+<Event>
+	<Text>Il étais une fois, la Princesse Daisy, héritière du royaume de Sarasaland. Lors de son 18ᵉ anniversaire,</Text>
+	<Text>une légende ressurgit : un dragon millénaire, le Gardien de Ruined Kingdom, s'éveille. Ce dragon,</Text>
+	<Text>surnommé Lord of Lightning, détient un mystérieux secret, mais menace également le royaume. Alors que tout le</Text>
+	<Text>monde s'attend à ce que le roi envoie ses chevaliers, Daisy décide de prendre son destin en main et de partir</Text>
+	<Text>en quête.</Text>
+<Next>Intro_ObjectChoice</Next>
+</Event>

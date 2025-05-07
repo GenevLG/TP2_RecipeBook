@@ -1,0 +1,18 @@
+<Choices>
+	<Text>Daisy entre dans la salle d'armes secrète du château.</Text>
+	<Text>Pour affronter l'inconnu, elle doit choisir un objet essentiel : </Text>
+	<Text></Text>
+	<Choice>
+		<Text>[1] Une épée arcs-en-ciel, capable de trancher la pierre.</Text>
+		<Next>ObjectChoice_Epee</Next>
+	</Choice>
+	<Choice>
+		<Text>[2] Le diadème de fleur, conférant la capacité de parler avec les créatures magiques.</Text>
+		<Next>ObjectChoice_Diademe</Next>
+	</Choice>
+	<Choice>
+		<Text>[3] Un cristal d'invisibilité, pour vous déplacer sans être vue.</Text>
+		<Next>ObjectChoice_Cristal</Next>
+	</Choice>
+	<Text>Que choisit elle ?</Text>
+</Choices>

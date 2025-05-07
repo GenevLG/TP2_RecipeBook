@@ -1,0 +1,5 @@
+<Event>
+	<Text>Daisy et le dragon partent en quête dans les grottes de Toad Town, où ils doivent trouver l'autre moitié</Text> 
+	<Text>de l'Astre Noir pour empêcher des êtres maléfiques de libérrer les ténèbres.</Text>
+	<Next>End_Quest</Next>
+</Event>

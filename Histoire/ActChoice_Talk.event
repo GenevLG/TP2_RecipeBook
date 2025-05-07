@@ -1,0 +1,9 @@
+<Event>
+	<Text>Daisy s'avance doucement vers le dragon et décide de tenter une approche pacifique. Peut-être peut-elle</Text> 
+	<Text>découvrir ses véritables intentions ?</Text>
+	<Text></Text>
+	<Text>Le dragon écoute patiemment Daisy. Il révèle qu'il garde un fragment d’une ancienne magie que certains</Text> 
+	<Text>dans le royaume convoitent pour de sombres raisons. Le dragon propose un marché : "Si tu veux protéger</Text>
+	<Text>ton royaume, aide-moi à récupérer l'autre moitié de cette artefact, gardé sous les profondeurs du monde."</Text>
+	<Next>Talk_QuestChoice</Next>
+</Event>

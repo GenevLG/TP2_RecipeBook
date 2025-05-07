@@ -1,0 +1,8 @@
+<Event>
+	<Text>Daisy décide de quitter la tanière du dragon. Elle retourne au château avec un avertissement. Elle ne</Text> 
+	<Text>fait pas confiance au dragon et crain que son mystérieux secret sois trop dangereux pour être laisser</Text>
+	<Text>entre ses griffes.</Text>
+	<Text></Text>
+	<Text>Elle doit convaincre son père de préparer le royaume contre une guerre imminente.</Text>
+	<Next>End_War</Next>
+</Event>

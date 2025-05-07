@@ -1,0 +1,4 @@
+<Event>
+	<Text>Daisy sent une aura étrange au dessus d'elle. Peut-être que dialoguer est une meilleure solution que la force.</Text>
+	<Next>BoomBoom_Diademe</Next>
+</Event>

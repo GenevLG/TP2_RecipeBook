@@ -1,0 +1,9 @@
+<Event>
+	<Text>Après plusieurs jours de voyage, Daisy atteint la frontière de Ruined Kingdom. Pour y entrer, Daisy doit</Text> 
+	<Text>emprunter un sentier escarpé, mais un Boom Boom garde l’entrée.</Text>
+	<Text></Text>
+	<Text>Daisy active le cristal d'invisibilité et se faufile discrètement derrière le Boom Boom, entrant dans la</Text> 
+	<Text>montagne sans qu’il ne la voie.</Text>
+	<Next>Dragon</Next>
+</Event>
+

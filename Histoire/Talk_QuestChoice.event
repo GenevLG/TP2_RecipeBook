@@ -1,0 +1,14 @@
+<Choices>
+	<Text>Elle doit choisir  :</Text>
+	<Text></Text>
+	<Choice>
+		<Text>[1] Accepter.</Text>
+		<Next>QuestChoice_Accept</Next>
+	</Choice>
+	<Choice>
+		<Text>[2] Partir.</Text>
+		<Next>Choice_Leave</Next>
+	</Choice>	
+	<Text>Que choisit elle ?</Text>
+</Choices>
+

@@ -1,0 +1,8 @@
+<Event>
+	<Text>Par son dévouement, la magie de la princesse fini par dissiper la mauvaise influence dans laquelle le</Text>
+	<Text>magicien emprisonnait le dragon.</Text>
+	<Text></Text>
+	<Text>Troubler par la gentillesse de la princesse, le dragon lui promis fidèlité entant qu'allié, mais surtout</Text>
+	<Text>entant qu'ami.</Text>
+	<Next>End_Allied</Next>
+</Event>

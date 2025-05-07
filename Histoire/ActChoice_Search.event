@@ -1,0 +1,9 @@
+<Event>
+	<Text>Daisy choisit d'explorer les environs tout en restant hors de vue du dragon. La caverne est vaste</Text>
+	<Text>et pourrait cacher des secrets essentiels.</Text>
+	<Text></Text>
+	<Text>En fouillant la tanière, Daisy trouve un vieux parchemin qui explique que le dragon est en réalité</Text>
+	<Text>prisonnier d’une malédiction qui le force à agir agressivement. Le parchemin contient un rituel pour</Text> 
+	<Text>briser le sort.</Text>
+	<Next>Search_RitualChoice</Next>
+</Event>

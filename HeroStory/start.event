@@ -1,0 +1,4 @@
+<Start>
+	<Text>Hello World!</Text>
+	<Next>intro</Next>
+</Start>

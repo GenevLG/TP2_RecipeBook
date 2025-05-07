@@ -1,0 +1,8 @@
+<Event>
+	<Text>La princesse et le dragon, unis contre la malédiction, réussirent à la briser.</Text>
+	<Text>Aucune force n'aurais pu y résister. Le dragon repris sa forme pacifique, celle d'un Yoshi.</Text>
+	<Text></Text>
+	<Text>Troubler par la gentillesse de la princesse, le Yoshi lui promis fidèlité entant qu'allié, mais surtout</Text>
+	<Text>entant qu'ami.</Text>
+	<Next>End_Allied</Next>
+</Event>

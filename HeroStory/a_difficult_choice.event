@@ -1,0 +1,15 @@
+<Choices>
+	<Text>Un beau prince arriva et vous demande en mariage</Text>
+	<Choice>
+		<Text>Refuser, vous preferez rester seule et gouverner a votre maniere</Text>
+		<Next>solo_end</Next>
+	</Choice>
+	<Choice>
+		<Text>Accepter. C'est le reve de votre vie qui se realise</Text>
+		<Next>end</Next>
+	</Choice>
+	<Choice>
+		<Text>Refuser et marier votre amour d'enfance a la place</Text>
+		<Next>end</Next>
+	</Choice>
+</Choices>

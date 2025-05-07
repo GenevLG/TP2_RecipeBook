@@ -1,0 +1,4 @@
+<Event>
+	<Text>Daisy sent la puissance de l’arc-en-ciel dans ses mains. Elle a confiance que cela la protégera dans un combat.</Text>
+	<Next>BoomBoom_Epee</Next>
+</Event>

@@ -1,0 +1,10 @@
+<Event>
+	<Text>Malgré les risques, Daisy prend son courage à deux mains et décide de frapper en premier pour protéger</Text> 
+	<Text>son royaume.</Text>
+	<Text></Text>
+	<Text>Ruines Dragon : "So...tired..."</Text>
+	<Text></Text>
+	<Text>Le dragon, blessé mais impressionné par le courage de Daisy, accepte une trêve.</Text> 
+	<Text>Il révèle qu’un Magikoopa manipulateur, nommé  Kamek, l’a obligé à terroriser le royaume.</Text>
+	<Next>Attack_TruceChoice</Next>
+</Event>

@@ -1,0 +1,17 @@
+<Choices>
+	<Text>Elle doit maintenant agir... </Text>
+	<Text></Text>
+	<Choice>
+		<Text>[1] Tenter de réveiller le dragon et de lui parler.</Text>
+		<Next>ActChoice_Talk</Next>
+	</Choice>
+	<Choice>
+		<Text>[2] Chercher discrètement dans la grotte des indices ou des objets.</Text>
+		<Next>ActChoice_Search</Next>
+	</Choice>
+	<Choice>
+		<Text>[3] Attaquer directement le dragon.</Text>
+		<Next>ActChoice_Attack</Next>
+	</Choice>	
+	<Text>Que fait elle ?</Text>
+</Choices>

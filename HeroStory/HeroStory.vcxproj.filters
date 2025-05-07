@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Histoire">
+      <UniqueIdentifier>{58af353f-e0ab-4f72-a0b8-d0471e6be58b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="HeroStory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Story.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IEvent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Event.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Event_Choice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Event_Start.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Event_End.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Story.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IEvent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Event.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Event_Choice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Event_Start.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Event_End.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Histoire\ActChoice_Search.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\ActChoice_Talk.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\Attack_TruceChoice.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\BoomBoom_Cristal.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\BoomBoom_Diademe.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\BoomBoom_Epee.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\Choice_Leave.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\Dragon.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\Dragon_ActChoice.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\End_Allied.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\End_Quest.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\End_War.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\Intro.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\Intro_ObjectChoice.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\ObjectChoice_Cristal.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\ObjectChoice_Diademe.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\ObjectChoice_Epee.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\QuestChoice_Accept.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\RitualChoice_Allied.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\RitualChoice_Help.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\Search_RitualChoice.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\Start.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\Talk_QuestChoice.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\TruceChoice_Allied.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\TruceChoice_Help.event">
+      <Filter>Histoire</Filter>
+    </None>
+    <None Include="..\Histoire\ActChoice_Attack.event">
+      <Filter>Histoire</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\Histoire\HistoireComplete.txt">
+      <Filter>Histoire</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
