@@ -1,4 +1,4 @@
-﻿#include "Story.h"
+﻿#include "Book.h"
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -12,7 +12,7 @@ const string RESET = "\033[0m";
 const string WHITEBRIGHT = "\u001B[97m";
 const string GREY = "\033[90m";
 
-Story::Story(const std::string& file)
+Book::Book(const std::string& file)
     : storyFile(file), currentFile(""), historyOfChoices(nullptr), historyCount(0), maxHistory(100) 
 {
     std::locale::global(std::locale("fr_FR.UTF-8")); // Définit la locale globale
@@ -20,14 +20,14 @@ Story::Story(const std::string& file)
     historyOfChoices = new std::string[maxHistory];
 }
 
-Story::~Story() 
+Book::~Book() 
 {
     delete[] historyOfChoices;
 }
 
 //////////////////////////////////////////////////////////////////////////
 //Tableau de l'historique des choix (pour le GoBack)
-void Story::GetHistoryOfChoices()
+void Book::GetHistoryOfChoices()
 {
     maxHistory *= 2;
     std::string* newHistory = new std::string[maxHistory];
@@ -41,7 +41,7 @@ void Story::GetHistoryOfChoices()
 
 //////////////////////////////////////////////////////////////////////////
 //Revenir au fichier précédent
-void Story::GoBack()
+void Book::GoBack()
 {
     if (historyCount > 1)
     {
@@ -69,7 +69,7 @@ void Story::GoBack()
 
 //////////////////////////////////////////////////////////////////////////
 // Charger et lire les fichiers 
-void Story::LoadFile(const std::string& filePath)
+void Book::LoadFile(const std::string& filePath)
 {
     currentFile = filePath; // Mettre à jour currentFile
     if (historyCount > 0 && historyOfChoices[historyCount - 1] != filePath)
@@ -174,7 +174,7 @@ void Story::LoadFile(const std::string& filePath)
 
 //////////////////////////////////////////////////////////////////////////
 // Démarrer le début de l'histoire
-void Story::Start()
+void Book::Start()
 {
     std::string startFile = storyFile + "Start.event";
     std::ifstream file(startFile);
@@ -232,7 +232,7 @@ void Story::Start()
 
 //////////////////////////////////////////////////////////////////////////
 //Pour enlever le balise de l'affichage des fichiers
-std::string Story::RemoveTags(const std::string& line, const std::string& openTag, const std::string& closeTag)
+std::string Book::RemoveTags(const std::string& line, const std::string& openTag, const std::string& closeTag)
 {
     size_t start = line.find(openTag) + openTag.length();
     size_t end = line.find(closeTag, start);
@@ -248,7 +248,7 @@ std::string Story::RemoveTags(const std::string& line, const std::string& openTa
 //////////////////////////////////////////////////////////////////////////
 
 //------- EVENT -------
-void Story::MenuEvent(const std::string& nextFile)
+void Book::MenuEvent(const std::string& nextFile)
 {
     char userChoice;
     while (true)
@@ -286,7 +286,7 @@ void Story::MenuEvent(const std::string& nextFile)
 }
 
 //------- CHOICES -------
-void Story::MenuChoices(const std::string* choices, const std::string* nextFiles, int choiceCount) 
+void Book::MenuChoices(const std::string* choices, const std::string* nextFiles, int choiceCount)
 {
     char userChoice;
     while (true) 
@@ -323,7 +323,7 @@ void Story::MenuChoices(const std::string* choices, const std::string* nextFiles
 }
 
 //------- END -------
-void Story::MenuEnd() 
+void Book::MenuEnd()
 {
     char userChoice;
     while (true) 

@@ -7,17 +7,17 @@
 #include <fstream>
 #include <string>
 // ===== CLASS ==============================================================
-#include "Story.h"
+#include "Book.h"
 
 int main() 
 {
     SetConsoleOutputCP(CP_UTF8);
 
     // Crée une instance de Story avec le chemin des fichiers
-    Story story("../Histoire/");
+    Book book("../Histoire/");
 
     // Démarrer l'histoire
-    story.Start();
+    book.Start();
 
     return 0;
 }

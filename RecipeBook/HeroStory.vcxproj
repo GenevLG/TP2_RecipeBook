@@ -24,6 +24,7 @@
     <ProjectGuid>{7c6de608-caaa-4e54-bf98-7f96edb8e5cb}</ProjectGuid>
     <RootNamespace>HeroStory</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>RecipeBook</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
