@@ -3,5 +3,8 @@
 class Event_Start
 {
 	public:	
-		~Event_Start();	
+		//Event_Start(const std::string& eventText);
+		~Event_Start();
+		void DisplayIntro();
+
 };

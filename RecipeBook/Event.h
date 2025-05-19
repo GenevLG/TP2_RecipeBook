@@ -1,9 +1,10 @@
 #pragma once
 #include "IEvent.h"
+#include <string>
 
-class Event : IEvent
+class Event : public IEvent
 {
-	private:
+	protected:
 	std::string text; // Texte principal
 	std::string nextFile; // Fichier suivant	
 
@@ -11,5 +12,6 @@ class Event : IEvent
 		Event(const std::string& eventText, const std::string& next);
 		virtual ~Event();
 	
-		std::string* GetChoice(int& count) const override;
+		void DisplayEvent() const; // Ajout pour l'affichage de l'événement
+		std::string GetNextEvent() const; // Obtenir le fichier suivant
 };

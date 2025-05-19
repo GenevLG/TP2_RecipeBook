@@ -132,6 +132,7 @@
     <ClCompile Include="Event_Choice.cpp" />
     <ClCompile Include="Event_End.cpp" />
     <ClCompile Include="Event_Start.cpp" />
+    <ClCompile Include="Menu.cpp" />
     <ClCompile Include="RecipeBook.cpp" />
     <ClCompile Include="IEvent.cpp" />
     <ClCompile Include="Book.cpp" />
@@ -143,6 +144,7 @@
     <ClInclude Include="Event_Start.h" />
     <ClInclude Include="IEvent.h" />
     <ClInclude Include="Book.h" />
+    <ClInclude Include="Menu.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\Histoire\ActChoice_Attack.event" />

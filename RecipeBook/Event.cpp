@@ -10,8 +10,12 @@ Event::~Event()
 {
 }
 
-std::string* Event::GetChoice(int& count) const 
+void Event::DisplayEvent() const
 {
-    count = 0;
-    return nullptr;
+    std::cout << "\33[97m" << text << "\33[0m" << std::endl;
+}
+
+std::string Event::GetNextEvent() const
+{
+	return nextFile;
 }
